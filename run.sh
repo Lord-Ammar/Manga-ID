@@ -7,7 +7,7 @@ echo -e "
 1.Cari Manga
 2.Install Bahan Rempah (Disarankan)
 3.Join EXECUTE TEAM
-4.Report Toold
+4.Report Tools
 5.Exit Tools"
 echo
 read -p "Pilih Menu > " pil
