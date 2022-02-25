@@ -1,3 +1,5 @@
+#Open Source Nih Ajg
+#Kalo Mau Decode Kasi Credit ajg
 import os,sys,time
 print ("""\033[1;95m ____  ____  ____  _____  ____  ____ 
 (  _ \( ___)(  _ \(  _  )(  _ \(_  _)
