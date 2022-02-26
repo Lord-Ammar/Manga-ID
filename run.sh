@@ -43,3 +43,7 @@ bash run.sh
 fi
 }
 main
+
+#Selamat Belajar ^_^
+#Ingat Decode Tidak Dapat Membuatmu
+#Menjadi Programer
