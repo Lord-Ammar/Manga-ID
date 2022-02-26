@@ -75,7 +75,6 @@ def download(path,url):
          x.write(req.content)
 if __name__=="__main__":
      clear()
-     os.system("python login.py")
      baner()
      print()
      que=input(f"{pr}Judul komik? : {c}")
